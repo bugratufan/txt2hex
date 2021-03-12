@@ -13,5 +13,5 @@ Address width must be base of **2**. Address width is automatically ceiled.
 
 ## How to Run
 ```
-<span>python txt2hex.py \<filename\></span>
+python txt2hex.py <filename> #file name must be txt format only.
 ``
