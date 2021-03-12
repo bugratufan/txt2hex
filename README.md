@@ -1,5 +1,5 @@
 # Text to Hex Converter for Memory Initialization
-This script is for text binary format to hexadecimal (with address value on each line) conversion to create  memory initialization file.
+This script is for text binary format to hexadecimal (with address value on each line) conversion to create  memory initialization file. It is compatible with **python2**.
 
 
 
