@@ -1,0 +1,9 @@
+---------------------------------- 
+Success!
+Input file           : example.txt
+Target file          : example.hex
+Total word:          : 64
+Width (bit)          : 6
+Actual Depth (word)  : 33
+Empty Depth (word)   : 31
+----------------------------------
